@@ -29,16 +29,8 @@ Apasionado por la tecnología y el desarrollo web, soy un Full Stack Junior con 
    - Creé un blog interactivo con Vue.js donde los usuarios pueden publicar comentarios, con un backend en Express.js y una base de datos MySQL.
 
 ## Educación
-- Título en Desarrollo Web Full Stack - [Nombre de la Institución]
+- Codecademy
 
-## Certificaciones
-- Certificación en Desarrollo Frontend con React.js - [Nombre del Curso o Institución]
-
-## Contacto
-- [LinkedIn](tu_linkedin)
-- [GitHub](tu_github)
-- Correo Electrónico: tu_correo@gmail.com
-- Teléfono: [+1234567890]
 
 ¡Estoy emocionado por contribuir y crecer en el mundo del desarrollo web! Si tienes alguna oportunidad interesante, ¡estaré encantado de conversar contigo!
 Recuerda reemplazar [Tu Nombre], tu_linkedin, tu_github y otros marcadores de posición con tu información real. ¡Buena suerte en tu búsqueda!
@@ -62,9 +54,6 @@ Copy code
 ## Habilidades Técnicas
 ...
 
-## Proyectos Destacados
-1. **E-commerce Platform**
-   ![Captura de Pantalla](url_de_la_imagen_ecommerce)
 
 2. **Blog Personal**
    ![Captura de Pantalla](url_de_la_imagen_blog)
